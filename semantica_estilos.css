@@ -1,0 +1,14 @@
+body{
+background-color: rgba(29, 1, 1, 0.479);   
+font-family:Georgia, 'Times New Roman', Times, serif
+}
+header, footer {
+    background-color: rgb(39, 1, 1);
+    color:rgb(41, 3, 3)
+    text-align:aliceblue
+    padding: 0cqmin; 
+} 
+    
+strong{
+    color: rgb(43, 2, 2);
+}
